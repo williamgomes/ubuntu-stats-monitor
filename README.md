@@ -1,4 +1,4 @@
-# StatsMonitor
+# Ububtu StatsMonitor
 
 A lightweight Ubuntu taskbar indicator that shows real-time CPU, RAM and GPU stats directly in your top panel — no bloat, no extra windows.
 
