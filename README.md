@@ -83,8 +83,8 @@ To confirm it's active, open the **Extensions** app and make sure *AppIndicator 
 ### Step 2 — Clone the repo
 
 ```bash
-git clone https://github.com/yourname/StatsMonitor
-cd StatsMonitor
+git clone https://github.com/williamgomes/ubuntu-stats-monitor
+cd ubuntu-stats-monitor
 ```
 
 ### Step 3 — Run the installer
